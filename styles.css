@@ -99,7 +99,7 @@
   }
   
   .home-img img {
-          display:flex;
+          display: flex;
 	  width: 20vw;
 	  animation: floatImage 4s ease-in-out infinite;
           border-radius:50%;
